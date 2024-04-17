@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "Salontech.html"
+status = 200
